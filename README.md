@@ -1,6 +1,6 @@
 # ChatSphere
 
-**Live Demo:** chat-sphere-gules.vercel.app
+**Live Demo:** [chat-sphere-gules.vercel.app](https://chat-sphere-gules.vercel.app)
 
 
 # React + Vite
